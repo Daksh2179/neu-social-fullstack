@@ -2,4 +2,3 @@
 
 ## Backend - Node.js, Express, MongoDb
 
-- Sanskar Sharma
